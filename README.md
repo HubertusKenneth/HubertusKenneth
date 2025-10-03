@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubertuskenneth&label=Profile%20views&color=0e75b6&style=flat" alt="hubertuskenneth" /> </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hubertuskenneth&theme=dracula&margin-w=10&margin-h=10" alt="hubertuskenneth" />
   </a> 
-</p>
+</p> -->
 
 - I’m currently learning **React and Laravel**  
 - All of my projects are available at [My Portfolio](https://hubertuskenneth.github.io/portfolio/)  
