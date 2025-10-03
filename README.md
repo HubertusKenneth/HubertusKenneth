@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubertus Kenneth Alfragisa</h1>
+<h1 align="center">Hello, I'm Hubertus Kenneth Alfragisa</h1>
 <h3 align="center">Passionate about technology and creating meaningful digital experiences. Currently pursuing my Bachelor's in Computer Science at BINUS University, with a strong focus on continuously developing and sharpening my skills.</h3>
 
 ###
@@ -11,11 +11,11 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **React and Laravel**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://hubertuskenneth.github.io/portfolio/)  
-- 💬 Ask me about **C, Java, Python**  
-- 📫 How to reach me **hubertusk26@gmail.com**  
-- ⚡ Fun fact **I am Handsome**
+- I’m currently learning **React and Laravel**  
+- All of my projects are available at [My Portfolio](https://hubertuskenneth.github.io/portfolio/)  
+- Ask me about **C, Java, Python**  
+- How to reach me **hubertusk26@gmail.com**  
+- Fun fact **I am Handsome**
 
 ###
 
